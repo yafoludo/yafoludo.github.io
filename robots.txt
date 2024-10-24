@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://yafoludo.github.io/sitemap/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/SPc/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/iSh/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/gkK/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/hOd/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/WgK/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/ByO/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/DsF/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/XDl/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/vup/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/PpX/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/IFa/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/FEp/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/oXO/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/XTH/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/kJL/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/ghb/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/YHR/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/NXT/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/YlL/sitemap_index.yafoludo
+Sitemap: https://yafoludo.github.io/dZq/sitemap_index.yafoludo
